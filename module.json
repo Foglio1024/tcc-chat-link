@@ -1,11 +1,11 @@
 {
     "disableAutoUpdate": false,
     "name": "tcc-chat-link",
-    "category": "client",
+    "keywords" : ["client"],
     "author": "Foglio",
     "options": {
         "guiName": "TCC chat link",
-        "niceName": "TCC chat link"
+        "cliName": "TCC chat link"
     },
     "servers": ["https://raw.githubusercontent.com/Foglio1024/tcc-chat-link/master/"],
     "description": "Modded Chat2.gpk for interaction between TERA client and tcc-stub.",
